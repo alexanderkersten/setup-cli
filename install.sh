@@ -2,7 +2,7 @@
 
 set -e
 
-VERSION="0.100.2"
+VERSION="0.200.0"
 FILE="databricks_cli_$VERSION"
 
 # Include operating system in file name.
